@@ -59,6 +59,15 @@ nav {
 footer {
     grid-row: 3 / -1;
     background-color: palevioletred;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: max(1vw, 1vh);
+}
+
+.credit a {
+    color: white;
 }
 
 .pic {
