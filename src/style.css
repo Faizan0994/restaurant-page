@@ -93,3 +93,7 @@ footer {
     align-items: center;
     padding-top: 3vh;
 }
+
+#content {
+    background-color: white;
+}
