@@ -81,7 +81,7 @@ const buildMenuTab = function(){
     item8.classList.add('food-item');
     p1 = document.createElement('p');
     p2 = document.createElement('p');
-    p1.textContent = "Alfredo Past";
+    p1.textContent = "Alfredo Pasta";
     p2.textContent = "Rs. 1500";
     item8.appendChild(p1);
     item8.appendChild(p2);
