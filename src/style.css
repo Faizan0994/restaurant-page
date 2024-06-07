@@ -54,6 +54,7 @@ nav {
 
 .buttons button:hover {
     color: white;
+    font-size: min(4.2vw, 3.2vh);
 }
 
 footer {
